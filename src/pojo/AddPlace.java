@@ -13,7 +13,7 @@ public class AddPlace {
 	private Location location;
 	//Array
 	private List<String> types;
-	//pojo class
+	
 	public int getAccuracy() {
 		return accuracy;
 	}
