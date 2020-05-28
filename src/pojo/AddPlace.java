@@ -9,7 +9,7 @@ public class AddPlace {
 	private String address;
 	private String website;
 	private String language;
-	//SUB-json
+	//SUB-json File
 	private Location location;
 	//Array
 	private List<String> types;
