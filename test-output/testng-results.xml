@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3256" started-at="2020-05-10T18:10:10Z" finished-at="2020-05-10T18:10:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3256" started-at="2020-05-10T18:10:10Z" finished-at="2020-05-10T18:10:14Z">
+      <class name="restAssured_QA_Example.StaticJson">
+        <test-method status="PASS" signature="addBook()[pri:0, instance:restAssured_QA_Example.StaticJson@765367]" name="addBook" duration-ms="3221" started-at="2020-05-10T18:10:10Z" finished-at="2020-05-10T18:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- restAssured_QA_Example.StaticJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
